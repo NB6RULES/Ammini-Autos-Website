@@ -237,7 +237,7 @@ function App() {
                       <span className="text-white font-medium">69%</span>
                     </div>
                     <div className="w-full bg-gray-800 rounded-full h-1">
-                      <div className="bg-gradient-to-r from-blue-500 to-purple-600 h-1 rounded-full" style={{ width: '99.9%' }}></div>
+                      <div className="bg-gradient-to-r from-blue-500 to-purple-600 h-1 rounded-full" style={{ width: '69%' }}></div>
                     </div>
                   </div>
 
