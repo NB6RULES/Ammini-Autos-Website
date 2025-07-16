@@ -195,7 +195,7 @@ function App() {
                   <div>
                     <h3 className="text-xl font-light text-white mb-2">Safety First</h3>
                     <p className="text-gray-400 font-light">
-                      99.9% collision avoidance accuracy with real-time hazard detection
+                      69% collision avoidance accuracy with real-time hazard detection
                     </p>
                   </div>
                 </div>
@@ -234,7 +234,7 @@ function App() {
                   <div>
                     <div className="flex justify-between items-center mb-2">
                       <span className="text-gray-400 font-light">Safety Rating</span>
-                      <span className="text-white font-medium">99.9%</span>
+                      <span className="text-white font-medium">69%</span>
                     </div>
                     <div className="w-full bg-gray-800 rounded-full h-1">
                       <div className="bg-gradient-to-r from-blue-500 to-purple-600 h-1 rounded-full" style={{ width: '99.9%' }}></div>
@@ -254,7 +254,7 @@ function App() {
                   <div>
                     <div className="flex justify-between items-center mb-2">
                       <span className="text-gray-400 font-light">Range</span>
-                      <span className="text-white font-medium">450+ miles</span>
+                      <span className="text-white font-medium">8008+ miles</span>
                     </div>
                     <div className="w-full bg-gray-800 rounded-full h-1">
                       <div className="bg-gradient-to-r from-green-500 to-blue-600 h-1 rounded-full" style={{ width: '88%' }}></div>
@@ -299,7 +299,7 @@ function App() {
               <h3 className="text-xl font-light text-white mb-4">360° Vision System</h3>
               <p className="text-gray-400 font-light leading-relaxed">
                 LiDAR, cameras, and radar sensors provide complete environmental 
-                awareness with object detection up to 300 meters.
+                awareness with object detection up to 420 meters.
               </p>
             </div>
 
@@ -347,7 +347,7 @@ function App() {
                 </li>
                 <li className="flex items-center space-x-3">
                   <CheckCircle className="h-4 w-4 text-green-400 flex-shrink-0" />
-                  <span>450+ mile range</span>
+                  <span>420+ mile range</span>
                 </li>
                 <li className="flex items-center space-x-3">
                   <CheckCircle className="h-4 w-4 text-green-400 flex-shrink-0" />
@@ -428,7 +428,7 @@ function App() {
                 <Phone className="h-8 w-8 text-blue-400" />
               </div>
               <h3 className="text-xl font-light text-white mb-2">Call Us</h3>
-              <p className="text-gray-400 font-light">9400726856</p>
+              <p className="text-gray-400 font-light">+91 9400726856</p>
             </div>
 
             <div className="text-center group">
@@ -436,7 +436,7 @@ function App() {
                 <Mail className="h-8 w-8 text-purple-400" />
               </div>
               <h3 className="text-xl font-light text-white mb-2">Email Us</h3>
-              <p className="text-gray-400 font-light">info@amminiautos.com</p>
+              <p className="text-gray-400 font-light">amminiautos@gmail.com</p>
             </div>
 
             <div className="text-center group">
@@ -445,8 +445,8 @@ function App() {
               </div>
               <h3 className="text-xl font-light text-white mb-2">Visit Us</h3>
               <p className="text-gray-400 font-light">
-                1000 Innovation Drive<br />
-                Silicon Valley, CA 94043
+                Rasheed Manakadden Hostel<br />
+                Mandakathe Floor, Ammini Room
               </p>
             </div>
           </div>
