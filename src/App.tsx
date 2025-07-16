@@ -445,7 +445,7 @@ function App() {
               </div>
               <h3 className="text-xl font-light text-white mb-2">Visit Us</h3>
               <p className="text-gray-400 font-light">
-                Rasheed Manakadden Hostel<br />
+                Rasheed Manakkaden Hostel<br />
                 Mandakathe Floor, Ammini Room
               </p>
             </div>
